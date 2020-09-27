@@ -94,6 +94,6 @@ struct CustomShape: Shape {
     }
 }
 
-var tabs = ["Home","Jumak","Menu","Coupon"]
+var tabs = ["Home","Store","Menu","Coupon"]
 
 

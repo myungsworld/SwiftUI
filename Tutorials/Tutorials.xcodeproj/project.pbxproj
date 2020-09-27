@@ -14,6 +14,7 @@
 		141F631E251B4C3400A4CE48 /* Loop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 141F631D251B4C3400A4CE48 /* Loop.swift */; };
 		1452C85C251F1C5C00DD806C /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1452C85B251F1C5C00DD806C /* TabBar.swift */; };
 		14C63C8A251DB7590000AE85 /* LoginFormEx.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14C63C89251DB7590000AE85 /* LoginFormEx.swift */; };
+		14D58047251F3A7E00256FAE /* TabBar2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14D58046251F3A7E00256FAE /* TabBar2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		141F631D251B4C3400A4CE48 /* Loop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Loop.swift; sourceTree = "<group>"; };
 		1452C85B251F1C5C00DD806C /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
 		14C63C89251DB7590000AE85 /* LoginFormEx.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginFormEx.swift; sourceTree = "<group>"; };
+		14D58046251F3A7E00256FAE /* TabBar2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				141F631D251B4C3400A4CE48 /* Loop.swift */,
 				14C63C89251DB7590000AE85 /* LoginFormEx.swift */,
 				1452C85B251F1C5C00DD806C /* TabBar.swift */,
+				14D58046251F3A7E00256FAE /* TabBar2.swift */,
 				141F6311251B44BB00A4CE48 /* Assets.xcassets */,
 				141F6316251B44BB00A4CE48 /* Info.plist */,
 				141F6313251B44BB00A4CE48 /* Preview Content */,
@@ -152,6 +155,7 @@
 				141F6310251B44BA00A4CE48 /* ContentView.swift in Sources */,
 				14C63C8A251DB7590000AE85 /* LoginFormEx.swift in Sources */,
 				141F630E251B44BA00A4CE48 /* TutorialsApp.swift in Sources */,
+				14D58047251F3A7E00256FAE /* TabBar2.swift in Sources */,
 				1452C85C251F1C5C00DD806C /* TabBar.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

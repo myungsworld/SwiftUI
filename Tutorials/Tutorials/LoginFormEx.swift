@@ -16,6 +16,7 @@ struct LoginFormEx: View {
     @State private var password2 = ""
     @State private var phoneNum = ""
     @State private var hidden = false
+    var song = "song"
     
     var body: some View {
         NavigationView {

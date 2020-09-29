@@ -1,66 +1,13 @@
 //
-//  TabBar2.swift
+//  PaySeprate.swift
 //  Tutorials
 //
-//  Created by myungsworld on 2020/09/26.
+//  Created by myungsworld on 2020/09/27.
 //
 
 import SwiftUI
 
-struct TabBar2: View {
-    var body: some View {
-        TabView{
-            
- 
-            
-            
-            HomeView()
-                .tabItem {
-                    Image(systemName: "house")
-                    Text("홈")
-                }
-            
-            StoreView()
-                .tabItem {
-                    Image(systemName: "plus")
-                    Text("상점 만들기")
-                }
-            
-            SplitView()
-                .tabItem {
-                    Image(systemName: "person")
-                    Text("더치페이")
-                }
-
-        }//TabView
-        
-        
-    }
-}
-
-struct TabBar2_Previews: PreviewProvider {
-    static var previews: some View {
-        TabBar2()
-    }
-}
-
-struct HomeView : View {
-    var body : some View {
-        VStack() {
-            Text("com on")
-            Text("two on")
-        }
-        
-    }
-}
-
-struct StoreView : View {
-    var body : some View {
-        Text("Store View")
-    }
-}
-
-struct SplitView : View {
+struct PaySeparate: View {
     
     @State private var amount = ""
     @State private var numberOfPeople = 2
@@ -105,5 +52,12 @@ struct SplitView : View {
             .navigationBarTitle("WeSplit")
         }//NavigationView
         
+    }
+}
+
+
+struct PaySeparate_Previews: PreviewProvider {
+    static var previews: some View {
+        PaySeparate()
     }
 }

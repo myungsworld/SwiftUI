@@ -19,6 +19,8 @@
 		14C63C8A251DB7590000AE85 /* LoginFormEx.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14C63C89251DB7590000AE85 /* LoginFormEx.swift */; };
 		14D58047251F3A7E00256FAE /* TabBar2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14D58046251F3A7E00256FAE /* TabBar2.swift */; };
 		14DF8A0425261A1E00918E8B /* URLTutorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14DF8A0325261A1E00918E8B /* URLTutorial.swift */; };
+		14E3C26A252AEF6000501970 /* ObservedTutorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14E3C269252AEF6000501970 /* ObservedTutorial.swift */; };
+		14E3C26E252AF23900501970 /* PresentationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14E3C26D252AF23900501970 /* PresentationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +38,8 @@
 		14C63C89251DB7590000AE85 /* LoginFormEx.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginFormEx.swift; sourceTree = "<group>"; };
 		14D58046251F3A7E00256FAE /* TabBar2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar2.swift; sourceTree = "<group>"; };
 		14DF8A0325261A1E00918E8B /* URLTutorial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URLTutorial.swift; sourceTree = "<group>"; };
+		14E3C269252AEF6000501970 /* ObservedTutorial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObservedTutorial.swift; sourceTree = "<group>"; };
+		14E3C26D252AF23900501970 /* PresentationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresentationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +82,8 @@
 				14DF8A0325261A1E00918E8B /* URLTutorial.swift */,
 				1413D66A252AD7AE00E51EC4 /* ValidatingDIsableForms.swift */,
 				1413D66E252ADCF000E51EC4 /* PopUp.swift */,
+				14E3C269252AEF6000501970 /* ObservedTutorial.swift */,
+				14E3C26D252AF23900501970 /* PresentationView.swift */,
 				141F6311251B44BB00A4CE48 /* Assets.xcassets */,
 				141F6316251B44BB00A4CE48 /* Info.plist */,
 				141F6313251B44BB00A4CE48 /* Preview Content */,
@@ -168,9 +174,11 @@
 				141F6310251B44BA00A4CE48 /* ContentView.swift in Sources */,
 				14DF8A0425261A1E00918E8B /* URLTutorial.swift in Sources */,
 				14C63C8A251DB7590000AE85 /* LoginFormEx.swift in Sources */,
+				14E3C26E252AF23900501970 /* PresentationView.swift in Sources */,
 				141F630E251B44BA00A4CE48 /* TutorialsApp.swift in Sources */,
 				1413D66F252ADCF000E51EC4 /* PopUp.swift in Sources */,
 				144C56A22520AEDE00481DFE /* PaySeparate.swift in Sources */,
+				14E3C26A252AEF6000501970 /* ObservedTutorial.swift in Sources */,
 				14D58047251F3A7E00256FAE /* TabBar2.swift in Sources */,
 				1452C85C251F1C5C00DD806C /* TabBar.swift in Sources */,
 			);

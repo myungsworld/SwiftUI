@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1413D66B252AD7AE00E51EC4 /* ValidatingDIsableForms.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1413D66A252AD7AE00E51EC4 /* ValidatingDIsableForms.swift */; };
 		141F630E251B44BA00A4CE48 /* TutorialsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 141F630D251B44BA00A4CE48 /* TutorialsApp.swift */; };
 		141F6310251B44BA00A4CE48 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 141F630F251B44BA00A4CE48 /* ContentView.swift */; };
 		141F6312251B44BB00A4CE48 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 141F6311251B44BB00A4CE48 /* Assets.xcassets */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1413D66A252AD7AE00E51EC4 /* ValidatingDIsableForms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidatingDIsableForms.swift; sourceTree = "<group>"; };
 		141F630A251B44BA00A4CE48 /* Tutorials.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tutorials.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		141F630D251B44BA00A4CE48 /* TutorialsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialsApp.swift; sourceTree = "<group>"; };
 		141F630F251B44BA00A4CE48 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -72,6 +74,7 @@
 				14D58046251F3A7E00256FAE /* TabBar2.swift */,
 				144C56A12520AEDE00481DFE /* PaySeparate.swift */,
 				14DF8A0325261A1E00918E8B /* URLTutorial.swift */,
+				1413D66A252AD7AE00E51EC4 /* ValidatingDIsableForms.swift */,
 				141F6311251B44BB00A4CE48 /* Assets.xcassets */,
 				141F6316251B44BB00A4CE48 /* Info.plist */,
 				141F6313251B44BB00A4CE48 /* Preview Content */,
@@ -157,6 +160,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1413D66B252AD7AE00E51EC4 /* ValidatingDIsableForms.swift in Sources */,
 				141F631E251B4C3400A4CE48 /* Loop.swift in Sources */,
 				141F6310251B44BA00A4CE48 /* ContentView.swift in Sources */,
 				14DF8A0425261A1E00918E8B /* URLTutorial.swift in Sources */,

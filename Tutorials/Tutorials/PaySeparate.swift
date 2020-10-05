@@ -49,7 +49,7 @@ struct PaySeparate: View {
                     Text("\(totalPerPerson, specifier: "%.2f")$")
                 }
             }
-            .navigationBarTitle("WeSplit")
+            .navigationBarTitle("더치 페이")
         }//NavigationView
         
     }

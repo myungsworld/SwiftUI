@@ -34,7 +34,8 @@ struct URLTutorial: View {
     }
     
     func loadData() {
-        guard let url = URL(string: "https://itunes.apple.com/search?term=taylor+swift&entity=song") else {
+        guard let url = URL(string: "https://itunes.apple.com/search?term=taylor+swift&entity=song")
+        else {
             print("Invalid URL")
             return
         }

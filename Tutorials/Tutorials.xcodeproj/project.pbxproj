@@ -16,7 +16,7 @@
 		1452C85C251F1C5C00DD806C /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1452C85B251F1C5C00DD806C /* TabBar.swift */; };
 		14C63C8A251DB7590000AE85 /* LoginFormEx.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14C63C89251DB7590000AE85 /* LoginFormEx.swift */; };
 		14D58047251F3A7E00256FAE /* TabBar2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14D58046251F3A7E00256FAE /* TabBar2.swift */; };
-		14DF8A0425261A1E00918E8B /* URLSession.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14DF8A0325261A1E00918E8B /* URLSession.swift */; };
+		14DF8A0425261A1E00918E8B /* URLTutorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14DF8A0325261A1E00918E8B /* URLTutorial.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,7 +31,7 @@
 		1452C85B251F1C5C00DD806C /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
 		14C63C89251DB7590000AE85 /* LoginFormEx.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginFormEx.swift; sourceTree = "<group>"; };
 		14D58046251F3A7E00256FAE /* TabBar2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar2.swift; sourceTree = "<group>"; };
-		14DF8A0325261A1E00918E8B /* URLSession.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URLSession.swift; sourceTree = "<group>"; };
+		14DF8A0325261A1E00918E8B /* URLTutorial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URLTutorial.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,7 +71,7 @@
 				1452C85B251F1C5C00DD806C /* TabBar.swift */,
 				14D58046251F3A7E00256FAE /* TabBar2.swift */,
 				144C56A12520AEDE00481DFE /* PaySeparate.swift */,
-				14DF8A0325261A1E00918E8B /* URLSession.swift */,
+				14DF8A0325261A1E00918E8B /* URLTutorial.swift */,
 				141F6311251B44BB00A4CE48 /* Assets.xcassets */,
 				141F6316251B44BB00A4CE48 /* Info.plist */,
 				141F6313251B44BB00A4CE48 /* Preview Content */,
@@ -159,7 +159,7 @@
 			files = (
 				141F631E251B4C3400A4CE48 /* Loop.swift in Sources */,
 				141F6310251B44BA00A4CE48 /* ContentView.swift in Sources */,
-				14DF8A0425261A1E00918E8B /* URLSession.swift in Sources */,
+				14DF8A0425261A1E00918E8B /* URLTutorial.swift in Sources */,
 				14C63C8A251DB7590000AE85 /* LoginFormEx.swift in Sources */,
 				141F630E251B44BA00A4CE48 /* TutorialsApp.swift in Sources */,
 				144C56A22520AEDE00481DFE /* PaySeparate.swift in Sources */,

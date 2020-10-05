@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct Response : Codable {
-    var result : [Result]
+    var results : [Result]
 }
 
 struct Result : Codable {
@@ -17,7 +17,7 @@ struct Result : Codable {
     var collectionName : String
 }
 
-struct URLSession: View {
+struct URLTutorial: View {
     
     @State var results = [Result]()
     
@@ -56,8 +56,8 @@ struct URLSession: View {
     }
 }
 
-struct URLSession_Previews: PreviewProvider {
+struct URLTutorial_Previews: PreviewProvider {
     static var previews: some View {
-        URLSession()
+        URLTutorial()
     }
 }

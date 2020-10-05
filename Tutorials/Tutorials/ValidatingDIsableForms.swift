@@ -11,7 +11,7 @@ struct ValidatingDIsableForms: View {
     
     @State var username = ""
     @State var email = ""
-    
+
     var disableForm : Bool {
         username.count < 5 || email.count < 5
     }

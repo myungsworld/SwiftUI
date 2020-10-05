@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1413D66B252AD7AE00E51EC4 /* ValidatingDIsableForms.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1413D66A252AD7AE00E51EC4 /* ValidatingDIsableForms.swift */; };
+		1413D66F252ADCF000E51EC4 /* PopUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1413D66E252ADCF000E51EC4 /* PopUp.swift */; };
 		141F630E251B44BA00A4CE48 /* TutorialsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 141F630D251B44BA00A4CE48 /* TutorialsApp.swift */; };
 		141F6310251B44BA00A4CE48 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 141F630F251B44BA00A4CE48 /* ContentView.swift */; };
 		141F6312251B44BB00A4CE48 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 141F6311251B44BB00A4CE48 /* Assets.xcassets */; };
@@ -22,6 +23,7 @@
 
 /* Begin PBXFileReference section */
 		1413D66A252AD7AE00E51EC4 /* ValidatingDIsableForms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidatingDIsableForms.swift; sourceTree = "<group>"; };
+		1413D66E252ADCF000E51EC4 /* PopUp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopUp.swift; sourceTree = "<group>"; };
 		141F630A251B44BA00A4CE48 /* Tutorials.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tutorials.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		141F630D251B44BA00A4CE48 /* TutorialsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialsApp.swift; sourceTree = "<group>"; };
 		141F630F251B44BA00A4CE48 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -75,6 +77,7 @@
 				144C56A12520AEDE00481DFE /* PaySeparate.swift */,
 				14DF8A0325261A1E00918E8B /* URLTutorial.swift */,
 				1413D66A252AD7AE00E51EC4 /* ValidatingDIsableForms.swift */,
+				1413D66E252ADCF000E51EC4 /* PopUp.swift */,
 				141F6311251B44BB00A4CE48 /* Assets.xcassets */,
 				141F6316251B44BB00A4CE48 /* Info.plist */,
 				141F6313251B44BB00A4CE48 /* Preview Content */,
@@ -166,6 +169,7 @@
 				14DF8A0425261A1E00918E8B /* URLTutorial.swift in Sources */,
 				14C63C8A251DB7590000AE85 /* LoginFormEx.swift in Sources */,
 				141F630E251B44BA00A4CE48 /* TutorialsApp.swift in Sources */,
+				1413D66F252ADCF000E51EC4 /* PopUp.swift in Sources */,
 				144C56A22520AEDE00481DFE /* PaySeparate.swift in Sources */,
 				14D58047251F3A7E00256FAE /* TabBar2.swift in Sources */,
 				1452C85C251F1C5C00DD806C /* TabBar.swift in Sources */,

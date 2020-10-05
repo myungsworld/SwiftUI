@@ -16,3 +16,7 @@ barbackbuttonhidden과 barbuttonhidden을 쓰지않고 유아이를 더 잘 구�
 ### [글자 수 제한 및 체크](https://github.com/myungsworld/SwiftUI/blob/master/Tutorials/Tutorials/ValidatingDIsableForms.swift)
 
 ### [팝업창](https://github.com/myungsworld/SwiftUI/blob/master/Tutorials/Tutorials/PopUp.swift)
+
+###[전역변수느낌](https://github.com/myungsworld/SwiftUI/blob/master/Tutorials/Tutorials/ObservedTutorial.swift)
+
+###[프레젠테이션뷰](https://github.com/myungsworld/SwiftUI/blob/master/Tutorials/Tutorials/ShwoingAndHidingViews.swift)

@@ -8,6 +8,8 @@
 
 ### [http URL 데이터 가져오기](https://github.com/myungsworld/SwiftUI/blob/master/Tutorials/Tutorials/URLTutorial.swift)
 
+### [http fetch 2](https://www.youtube.com/watch?v=1en4JyW3XSI&t=616s)
+
 ### [글자 수 제한 및 체크](https://github.com/myungsworld/SwiftUI/blob/master/Tutorials/Tutorials/ValidatingDIsableForms.swift)
 
 ### [팝업창](https://github.com/myungsworld/SwiftUI/blob/master/Tutorials/Tutorials/PopUp.swift)
@@ -19,3 +21,4 @@
 ### [Provision err](https://stackoverflow.com/questions/36689116/certificate-has-either-expired-or-has-been-revoked/53925890#53925890)
 
 ### [Modal View](https://www.youtube.com/watch?v=514A7yzznJE)
+
